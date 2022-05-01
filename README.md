@@ -1,6 +1,5 @@
 <img align="left" src="https://cdn.discordapp.com/attachments/935547174421430302/968500776639021056/Gif56.gif" width="250" /> 
 
-### ***@kl666v***
 
 
 ```python
