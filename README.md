@@ -9,7 +9,7 @@
 
 
 
-@SneaX#9999
+@SneaX#8888
 
 
 
@@ -19,7 +19,7 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kl666v)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kl666v.here/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/kl666v)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC5wc4dXvUYo6x33NLxfySug)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/kl666v)  
+[![Discord Presence](https://lanyard.cnrad.dev/api/588685328068378636)](https://discord.com/users/588685328068378636)
 
 
 
